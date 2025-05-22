@@ -2,8 +2,8 @@
 
 An advanced **online** scientific calculator built using **JavaScript** and modern web technologies. This project enhances mathematical calculations by offering a dynamic, easy-to-use interface similar to physical scientific calculators.
 
-🔗 **Live Demo:** [Scientific Calculator](https://scientificcalculator.netlify.app/)  
-<a href="https://scientificcalculator.netlify.app/"><img src="images/calculator.png"></a>
+🔗 **Live Demo:** [Scientific Calculator](goutamdevcalc.netlify.app)  
+<a href="goutamdevcalc.netlify.app"><img src="images/calculator.png"></a>
 
 ## 🚀 Features
 
