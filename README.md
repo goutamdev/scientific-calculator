@@ -2,7 +2,7 @@
 
 An advanced **online** scientific calculator built using **JavaScript** and modern web technologies. This project enhances mathematical calculations by offering a dynamic, easy-to-use interface similar to physical scientific calculators.
 
-🔗 **Live Demo:** [Scientific Calculator](https://yogeshiitm.github.io/scientific-calculator/)  
+🔗 **Live Demo:** [Scientific Calculator](https://scientificcalculator.netlify.app/)  
 <a href="https://scientificcalculator.netlify.app/"><img src="images/calculator.png"></a>
 
 ## 🚀 Features
